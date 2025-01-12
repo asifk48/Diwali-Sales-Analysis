@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diwali Sales Analysis</title>
 </head>
 <body>
     <h1>🎇 Diwali Sales Analysis 🎉</h1>
-    <img src="https://user-images.githubusercontent.com/xxxxxx/festival-image.jpg" alt="Festival Image">
     <h2>🛍️ Project Overview</h2>
     <p>
         Diwali, India's Festival of Lights, is a major shopping event that drives significant consumer spending. 
