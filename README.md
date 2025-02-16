@@ -14,7 +14,7 @@
     </p>
     <p>🔍 <strong>Objective:</strong> Provide actionable insights for businesses to optimize their marketing strategies during festive seasons.</p> 
     <hr>
-    <h2>🧰 Technologies Used</h2>
+    <h2>🧪 Technologies Used</h2>
     <ul>
         <li><strong>Programming Language:</strong> Python 🐍</li>
         <li><strong>Libraries:</strong> Pandas, NumPy, Matplotlib, Seaborn</li>
@@ -31,7 +31,7 @@
     <ul>
         <li><strong>Top States:</strong> Uttar Pradesh, Maharashtra, and Karnataka lead in sales.</li>
     </ul>
-    <h3>👩‍❤️‍👨 Marital Status</h3>
+    <h3>👩‍👩 Marital Status</h3>
     <ul>
         <li>Married women show the highest purchasing power.</li>
     </ul>
@@ -90,11 +90,11 @@
         <li><strong>Asif Khan</strong> (<a href="https://github.com/asifk48">GitHub Profile</a>)</li>
     </ul>
     <hr>
-    <h2>📬 Contact</h2>
+    <h2>💌 Contact</h2>
     <p>
         For questions or collaboration, reach out via:<br>
-        📧 Email: [mohammadasif7494@gmail.com]<br>
-        🌐 <a href="www.linkedin.com/in/mohammad-asif-khan-a3089a24a">LinkedIn</a>
+        📧 Email: <a href="mailto:mohammadasif7494@gmail.com">mohammadasif7494@gmail.com</a><br>
+        🌐 <a href="https://www.linkedin.com/in/mohammad-asif-khan-a3089a24a">LinkedIn</a>
     </p>
 </body>
 </html>
