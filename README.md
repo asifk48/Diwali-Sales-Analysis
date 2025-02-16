@@ -93,7 +93,7 @@
     <h2>📬 Contact</h2>
     <p>
         For questions or collaboration, reach out via:<br>
-        📧 Email: asifkhan@example.com<br>
+        📧 Email: mohammadasif7494@gmail.com<br>
         🌐 <a href="https://www.linkedin.com/in/asifkhan">LinkedIn</a>
     </p>
 </body>
